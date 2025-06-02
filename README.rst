@@ -1,3 +1,10 @@
+This project is based on Tartube (https://github.com/axcore/tartube)
+Copyright (C) 2019-2025 A S Lewis
+License: LGPL-2.1
+
+Modifications made:
+- Added Docker containerization
+
 ===================================================
 Tartube - The Easy Way To Watch And Download Videos
 ===================================================
