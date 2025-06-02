@@ -1,9 +1,11 @@
 This project is based on Tartube (https://github.com/axcore/tartube)
 Copyright (C) 2019-2025 A S Lewis
 License: LGPL-2.1
+& the project docker-baseimage-gui (https://github.com/jlesage/docker-baseimage-gui)
+License : MIT
 
 Modifications made:
-- Added Docker containerization
+- Added Docker support
 
 ===================================================
 Tartube - The Easy Way To Watch And Download Videos
